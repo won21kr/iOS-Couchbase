@@ -6,7 +6,7 @@
 
 As of August 2011 this fork is obsolete. Please see the [iOS-Couchbase-Manifest](https://github.com/couchbaselabs/iOS-Couchbase-manifest) repo for the current instructions on how to check out and build Couchbase Mobile for iOS.
 
-Even easier: If you just want to _use_ Couchbase Mobile in your apps, we recommend downloading a pre-built framework from the [product home page](http://www.couchbase.org/get/couchbase-mobile-for-ios/current), as the source code is a bit complex to build.
+Even easier: If you just want to _use_ Couchbase Mobile in your apps, we recommend downloading a pre-built framework from the [product home page](http://www.couchbase.com/wiki/display/couchbase/Couchbase+Mobile+Syncpoint), as the source code is a bit complex to build.
 
 Thanks, and sorry for the inconvenience!
 
